@@ -1,11 +1,11 @@
 {
-  "name": "vitepress-theme-demoblock",
-  "version": "3.0.1",
+  "name": "@dangojs/vitepress-theme-demoblock",
+  "version": "0.0.1",
   "type": "module",
   "description": "vitepress-theme-demoblock",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xinlei3166/vitepress-theme-demoblock"
+    "url": ""
   },
   "keywords": [
     "vitepress",
@@ -14,14 +14,18 @@
     "demoblock"
   ],
   "bugs": {
-    "url": "https://github.com/xinlei3166/vitepress-theme-demoblock/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/xinlei3166/vitepress-theme-demoblock#readme",
-  "author": "君惜",
+  "homepage": "",
+  "author": "",
   "license": "MIT",
   "bin": {
     "vitepress-register-components": "bin/vitepress-register-components.js",
     "vitepress-rc": "bin/vitepress-register-components.js"
+  },
+  "publishConfig": {
+    "registry": "",
+    "access": "public"
   },
   "files": [
     "bin",
