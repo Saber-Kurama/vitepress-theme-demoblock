@@ -1,4 +1,4 @@
-## 0.0.1 (2023-07-12)
+## [0.0.1](https://github.com/Saber-Kurama/vitepress-theme-demoblock/compare/70985030a7fc5bcf5ecf87b5ed0cbc5dfa225cf0...v0.0.1) (2023-07-12)
 
 
 ### Bug Fixes
